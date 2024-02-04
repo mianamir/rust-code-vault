@@ -1,2 +1,2 @@
-# rust-code-vault
-Rust Programming Code Vault 
+# Rust Programming Code Vault
+
